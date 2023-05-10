@@ -1,0 +1,12 @@
+.container {
+    background: #FFFFFF;
+    padding: 14px 32px 0 32px;
+    border-top: 1px solid #E1E1E1;
+}
+
+.bottom-line {
+    border-bottom: 1px solid #E1E1E1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

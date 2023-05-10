@@ -1,0 +1,16 @@
+.container {
+    background: #FFFFFF;
+    border-radius: 12px;
+    width: 180px;
+}
+
+.option {
+    display: flex;
+    gap: 12px;
+    padding: 0 13px;
+    border-radius: 8px;
+}
+
+.option-active {
+    background: #EDF2FF;
+}

@@ -1,0 +1,51 @@
+.container {
+    background: #FFFFFF;
+    border-radius: 12px;
+    padding: 18px 32px 21px 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 4px;
+}
+
+.sub-title {
+    color: #949494;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.text {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
+    color: #212121;
+}
+
+.icons {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.number {
+    background: #2552C6;
+    color: #FFF;
+    opacity: 0.3;
+    border-radius: 30px;
+    padding: 5px 10px;
+}
+
+.arrowIcon {
+    background: #397AF5;
+    border: 1px solid #397AF5;
+    border-radius: 12px;
+    padding: 7px 12px;
+}
+
+.moreIcon {
+    border: 1px solid #397AF5;
+    border-radius: 12px;
+    padding: 14px 8px;
+}
